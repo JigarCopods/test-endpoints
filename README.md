@@ -16,9 +16,9 @@ node index.js
 ```
 
 To add new endpoint for GET request,
-    -Add a json file under api/get directory (Name of json file will be the name of end point)
-    -Add json data that is expected as a apoi response in created file
-    -Re-run the server
+1. Add a json file under api/get directory (Name of json file will be the name of end point)
+2. Add json data that is expected as a apoi response in created file
+3. Re-run the server
     
 Example:
 1. I have created a file called as getData.json under api/get directory and kept {data:{}} as conent of that file
