@@ -28,4 +28,9 @@ Example:
     }
 }
  as content of that file
-2. When I re-run the server and hit http://localhost:3000/getData, it will return {data:{}} as response
+2. When I re-run the server and hit http://localhost:3000/getTestData, it will return 
+{
+    "data": {
+        "key": "value"
+    }
+} as response
