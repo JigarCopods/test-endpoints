@@ -21,5 +21,11 @@ To add new endpoint for GET request,
 3. Re-run the server
     
 Example:
-1. I have created a file called as getData.json under api/get directory and kept {data:{}} as content of that file
+1. I have created a file called as getTestData.json under api/get directory and kept 
+{
+    "data": {
+        "key": "value"
+    }
+}
+ as content of that file
 2. When I re-run the server and hit http://localhost:3000/getData, it will return {data:{}} as response
