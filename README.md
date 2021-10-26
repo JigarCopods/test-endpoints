@@ -1,6 +1,6 @@
 ## Development
 
-This project allows you to create dummy endpoints to handle with hardcoded data
+This project allows you to create test endpoints to return hardcoded data.
 After cloning this repo, you can perform following steps:
 
 Installation:
